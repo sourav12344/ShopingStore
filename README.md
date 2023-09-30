@@ -1,1 +1,1 @@
-# ShopingStore
+# Shopingstore
