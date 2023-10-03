@@ -5,7 +5,7 @@ from django.contrib import messages
 
 
 def start(request):
-    return render(request, 'intro.html')
+    return render(request, 'accounts/index.html')
 # Create your views here.
 
 
